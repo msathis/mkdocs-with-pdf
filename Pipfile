@@ -18,7 +18,7 @@ qrcode = "*"
 
 [packages]
 mkdocs = ">=1.1"
-beautifulsoup4 = "*"
+beautifulsoup4 = "4.9.3"
 libsass = "*"
 weasyprint = "*"
 
